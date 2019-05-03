@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+tiddlywiki draft --build index
+mv draft/output/index.html ..
